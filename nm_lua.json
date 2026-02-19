@@ -1,0 +1,7 @@
+{
+  "name": "nm_lua",
+  "description": "Lua Native Messaging host",
+  "path": "",
+  "type": "stdio",
+  "allowed_origins": []
+}
